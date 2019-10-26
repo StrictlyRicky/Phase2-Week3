@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serious-dahlia-256312",
+  "private_key_id": "f49a74deea32fe99c14c01f15c6fc810755f11e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTL++gh2Zv396T\nUzaqzZphPU3Ki8J+EhSaMtZbQjbTm7mnnkW+JFIRt+WPVhwA+udP09quruKAU66K\n70qBL6R6sGqpWcpEVkaYLMbcpryhOMcX1HY9gD5yD8Yx8sWl4s50i/hNVNQa/T6S\nQ/rFdzN94tGbHA5m+yTEG2WPe5pc3TbPXgY31kOTWKWcxorbCnaiMGI8BmGkHu41\naLyHYdFaKlOD5ZF820BhCxS6ux5GhJcWnpu3cYaKAgnl9CKwuFixtSM9ukUlvkcL\ngO4cZJlXHy+Fkmw0GiCFQLkClKwhpbfarQThQWeuvICPZKg6Q1Ff6iW0S0lATi7w\nAjp8zK37AgMBAAECggEACiqRc+u7mOvu77Ybsd3UVUsVXcbG1Eu4veiCWHimWM9f\nb23F23BJdY0s1KMEpCdbEBnN96rUsjsVdJCP+4RS6WEuEixwMBrVcsVaUaX3+XAh\nMErYhT71ETkjCL2ABrPibA0O8Ch1I2LCjk/BDnVBSpH+xaaWcr5+DPLnfOrzVTPy\nNxsexIMnO65zpUPCdAuX01Rf612gtAWeaDWozWygMyr+Zdklq/w1hAAInqb648yq\nFIHbAGCSOGQ+akUW2RUz5MJmqlD0g1CYHQxHhchH4299+f0+Z8XqpoSamPRQAlR4\npGOZltniaTCiOAAMlVrGA2zl/+Wm0O7MocvmBlxuYQKBgQDGDEA/xnX0ZVRHFwLl\nnKNkxe35gEEPvH4yG17HRlN9t59cql8Vk3q7wrlt1fne9635LFmJuqM63fiG7hA2\nkl6zlQsDAfn4T35IE3ioPlWfe+TCufNYegv9RnwGvacMmjxVKbSAJHDF3Il0hX4i\nG5ZtjIFmV6A2sL7yOgPXPmVA1QKBgQC+QbigYlZex3JFuvVac/mqFq/dP7eq8LIq\nsV98R+mWh+UisBQL3wP8k3LLihC2XbflaIBdy0n2ticjSbuXxLDVVesBuq3kYr4H\nssnOKJHcKa85DycpKOHjgN2EVbrSM9XzkjEcdvG9K4hwXeyZRMqPUsEd80WTIYcU\nj88LHksbjwKBgQCBtcZivq3EipUfFmAsWGHff470KV7zWoXgdXKm21WVci0quN8b\nt4Lb9JYT7OABe4BzQOvHu/hqdrTuUn9F7qmdvpD+wE2ipxXTSQVuU50qni9epgFO\nQmkV0hMrKw18wIuhT3ZLsxI1VNKmAURyPFVSnIKnr95b03jMFtkrIU+ZnQKBgH8h\nS01gaHZMr38IvooClQGix0EAIqqGy4bbnwJcyylbBTF4luyXyQItRLfdOe2iEg+p\nFJ2YCYRhkyVxT3jKZZ8oGjC9nRTPJkvenBq14UFMWVm3VmOafdaXdW3IG136ZSys\ns0Rh9oaBYFo1aLPB09iRY5mvxP3bmXeT4LV9OJLhAoGAAnzz8JsYdkxhq8j6EFv3\n/bdbSnyb7Q61E5gwBrjKKQ4IGnqrdInb3YHi6SRjQ1mjDEtxDzoE2Fv8RgZnhLgG\nJfg9e6hsqClD67vU5bRxyCWcMzJ17LfIVQ9h3LyRg/cuf6bPLq5L4ebm9S3ISN9l\nufRhMokiB60/gL6rNWutWTw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "e-commerce@serious-dahlia-256312.iam.gserviceaccount.com",
+  "client_id": "118341700226509400880",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/e-commerce%40serious-dahlia-256312.iam.gserviceaccount.com"
+}
